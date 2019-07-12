@@ -4,4 +4,4 @@ I have a list of target people, and I want to download their profiles from Linke
 
 Here is my stragety:
 1. Use Google to search "XXX linkedin NAME", and save links containing "linkedin"
-2. Login LinkedIn by get(url) where url is the links from step 1.
+2. Login LinkedIn by get(url) where url is the links from step 1
